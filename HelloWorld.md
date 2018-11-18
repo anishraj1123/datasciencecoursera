@@ -1,2 +1,2 @@
 ## This is a markdown file
-### Week 1 assignment
+### Module 1 assignment
